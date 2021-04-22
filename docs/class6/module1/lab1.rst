@@ -86,7 +86,7 @@ Click :guilabel:`Save` to save the policy
 
         .. image:: images/6-module1.png
     
-    On this same screen, under the section :guilabel:`File types` check the boxes on :guilabel:`Illegal file types` to ‘learn’, ‘alarm’, and ‘block’ as shown below. 
+    On this same screen, under the section :guilabel:`File types` check the boxes on :guilabel:`Illegal file type` to ‘learn’, ‘alarm’, and ‘block’ as shown below. 
 
         .. image:: images/7-module1.png
 
